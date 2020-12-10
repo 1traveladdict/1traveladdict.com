@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0px;
+    display: border-box;
+    box-sizing: auto;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("file:///C:/Users/moiha/OneDrive/Desktop/website%20helen%20project/peru.jpg");
+    background-size: cover;
+    
+}
+header {
+    background-color: #24411A;
+    width: 650px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    margin-top: 20px;
+    
+
+}
+h1 {
+    font-size: 42px;
+    color: white;
+    background-color: #24411A;
+    box-sizing: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    -webkit-text-fill-color: white;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background-color: #24411A;
+  box-sizing: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  -webkit-text-stroke-color:black;
+  -webkit-text-stroke-width: 1px;
+  background-color: #24411A;
+  -webkit-text-fill-color: white;
+}
+
+h3 {
+  font-size: 22px;
+  box-sizing: auto;
+  margin: 10px;
+  background-color: #24411A;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+nav {
+    display: flex;
+    display: border-box;
+    justify-content: space-evenly;
+    font-size: 20px;
+    width: auto;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+div {
+    display: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 22px;
+    width: 200px;
+    height: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    
+    -webkit-text-fill-color: white;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+  
+}
+a {
+    display: flex;
+    display: border-box;
+    text-align: center;
+    font-size: 24px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    -webkit-text-fill-color: white;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    background-color: #24411A;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+    
+  }
+
+
+  
+  .element {
+    display: border-box;
+    display: flex;
+    font-size: 12px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    -webkit-text-fill-color: white;
+    
+  
+  }
+
+  article {
+    font-size: 42px;
+    padding-top: 5px;
+    box-sizing: auto;
+    text-align: center;
+    margin-left: 450;
+    margin-right: 450;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    -webkit-text-fill-color: white;
+    margin-top: 10px;
+    
+
+  }
+
+p {
+    
+    margin: 5px;
+    font-size: 14px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    margin-top: 520px;
+    -webkit-text-fill-color: white;
+    
+}
+
+
+footer {
+    font-size: 14px;
+    text-align: center;
+    box-sizing: auto;
+    margin: 5px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    font-weight: bold;
+    background-position: center bottom;
+    -webkit-text-fill-color: white;
+
+    
+    
+}
+    
+  h4 {
+    font-size: 18px;
+    text-align: center;
+    background-color:  #24411A ;
+    margin-left: auto;
+    margin-right: auto;
+    
+    box-sizing: auto;
+    
+    padding: 10px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    font-weight: bold;
+    -webkit-text-fill-color: white;
+  
+
+  }
