@@ -118,8 +118,8 @@ a {
     padding-bottom: 10px;
     box-sizing: auto;
     text-align: center;
-    margin-left: 520px;
-    margin-right: 350px;
+    margin-left: 100px;
+    margin-right: 850px;
     background-color: #24411A;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
@@ -147,8 +147,8 @@ section {
     padding-bottom: 5px;
     box-sizing: 25%;
     text-align: center;
-    margin-left: 520px;
-    margin-right: 350px;
+    margin-left: 100px;
+    margin-right: 850px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     background-color: #24411A;
