@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0px;
+    display: border-box;
+    box-sizing: auto;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("file:///C:/Users/moiha/OneDrive/Desktop/website%20helen%20project/CAMERAPHOTO.jpg");
+    background-size: 1270px 1010px;
+
+    
+}
+header {
+    background-color: #24411A;
+    width: 650px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    margin-top: 20px;
+    
+
+}
+h1 {
+    font-size: 42px;
+    color: white;
+    background-color: #24411A;
+    box-sizing: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    -webkit-text-fill-color: white;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background-color: #24411A;
+  box-sizing: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  -webkit-text-stroke-color:black;
+  -webkit-text-stroke-width: 1px;
+  background-color: #24411A;
+  -webkit-text-fill-color: white;
+}
+
+h3 {
+  font-size: 15px;
+  box-sizing: auto;
+  margin: 10px;
+  background-color: rgba#24411A;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-decoration: bold;
+  
+  
+
+}
+
+article {
+    background-color: #24411a;
+    
+    height: 125px;
+    margin-left: 425px;
+    width: 350px;
+    padding-top: 10px;
+    margin-top: 10px;
+    text-align: left;
+
+} 
+
+p {
+    
+    margin: 5px;
+    font-size: 15px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    
+    margin-top: 20px;
+    -webkit-text-fill-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-decoration: outline;
+
+    
+}
+
+
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    box-sizing: auto;
+    margin: 20px;
+    padding-left: 420px;
+    padding-right: 300px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    font-weight: bold;
+    background-position: center bottom;
+    -webkit-text-fill-color: white;
+
+    
+    
+}
+    
+  h4 {
+    font-size: 20px;
+    text-align: center;
+    background-color:  #24411A;
+    margin-left: auto;
+    margin-right: auto;
+    
+    box-sizing: auto;
+    
+    padding: 20px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    font-weight: bold;
+    -webkit-text-fill-color: white;
+  
+
+  }
