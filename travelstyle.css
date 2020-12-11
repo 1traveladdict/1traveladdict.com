@@ -16,41 +16,38 @@ header {
     width: 450px;
     height: 50px;
     text-align: center;
+    margin-bottom: 10px;
     padding-top: 10px;
-    
     margin-left: auto;
     margin-right: auto;
     color: white;
     
-
-}
+  }
 h1 {
     font-size: 55px;
     text-align: center;
     color: white;
     background-color: #24411A;
     width: 550px;
-    margin-bottom: 10px;
     box-sizing: auto;
     padding-top: 10px;
     padding-right: 10px;
     padding-left: 10px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
-    
     -webkit-text-fill-color: white;
 }
 h2 {
   font-size: 40px;
   text-align: center;
   color: white;
+  margin-top: 20px;
   background-color: #24411A;
   box-sizing: auto;
   padding-right: 10px;
   padding-left: 10px;
   -webkit-text-stroke-color:black;
   -webkit-text-stroke-width: 1px;
-  
   -webkit-text-fill-color: white;
 }
 
@@ -67,6 +64,7 @@ nav {
     font-size: 20px;
     width: auto;
     height: auto;
+    margin-top: 40px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     -webkit-text-fill-color: white;
@@ -100,12 +98,9 @@ a {
     -webkit-text-stroke-width: 1px;
     background-color: #24411A;
     -webkit-text-fill-color: white;
-    
-    
+        
   }
 
-
-  
   .element {
     display: border-box;
     display: flex;
@@ -119,18 +114,20 @@ a {
 
   article {
     font-size: 42px;
-    padding-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     box-sizing: auto;
     text-align: center;
-    margin-left: 450;
-    margin-right: 450;
+    margin-left: 520px;
+    margin-right: 350px;
+    background-color: #24411A;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
-    background-color: #24411A;
     -webkit-text-fill-color: white;
     margin-top: 10px;
     
-
+    
+    
   }
 
 p {
@@ -139,9 +136,9 @@ p {
     font-size: 14px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
-    background-color: #24411A;
+    
     -webkit-text-fill-color: white;
-    margin-bottom: 20px;
+    margin-bottom: 20ppx;
     
 }
 section {
@@ -150,24 +147,25 @@ section {
     padding-bottom: 5px;
     box-sizing: 25%;
     text-align: center;
-    margin-left: 800px;
-    margin-right: 800px;
+    margin-left: 520px;
+    margin-right: 350px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     background-color: #24411A;
     -webkit-text-fill-color: white;
-    margin-top: 10px;
+    margin-top: 20px;
     
 }
 body {font-family: Georgia, 'Times New Roman', Times, serif;}
 
 
 form {
-  border: 3px solid #24414a;
+  
+  border: 6px solid black;
   width: auto;
   height: auto;
-  box-sizing: 30%;
-  font-size 10px;
+  box-sizing: 80%;
+  font-size: 25px;
 
     }
 
@@ -179,7 +177,7 @@ input[type=text], input[type=password] {
   display: inline-block;
   border: 1px solid;
   box-sizing: border-box;
-  font-size: 8px;
+  font-size: 10px;
   
 }
 
@@ -200,7 +198,6 @@ button:hover {
 .cancelbtn {
   width: 10%;
   padding: 10px 10px;
-  background-color: #24411A;
   display: border-box;
 }
 
@@ -216,7 +213,7 @@ img.avatar {
 
 .container {
   padding: 3px;
-  width: 30%;
+  width: 70%;
 
 }
 
@@ -238,7 +235,7 @@ span.psw {
 input[type=text], select, textarea {
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */
-  border: 1px solid #ccc; /* Gray border */
+  border: 3px solid #ccc; /* Gray border */
   border-radius: 4px; /* Rounded borders */
   box-sizing: border-box; /* Make sure that padding and width stays in place */
   margin-top: 6px; /* Add a top margin */
@@ -265,7 +262,7 @@ input[type=submit]:hover {
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
-  padding: 20px;
+  padding: 10px;
 }
 footer {
     font-size: 20px;
@@ -276,17 +273,14 @@ footer {
     -webkit-text-stroke-width: 1px;
     font-weight: bold;
     -webkit-text-fill-color: white;
-
     
 }
-    
   h4 {
     font-size: 20px;
     text-align: center;
-    background-color:  #24411A ;
+    background-color: #24411A;
     margin-left: auto;
     margin-right: auto;
-    
     box-sizing: auto;
     margin: 20px;
     padding: 20px;
@@ -295,5 +289,4 @@ footer {
     font-weight: bold;
     -webkit-text-fill-color: white;
   
-
   }
