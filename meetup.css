@@ -55,8 +55,9 @@ h3 {
   box-sizing: auto;
   margin: 10px;
   background-color: #24411A;
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 450px;
+  margin-right: 450px;
+  padding: 12px;
 }
 
 nav {
@@ -123,6 +124,8 @@ a {
     -webkit-text-stroke-width: 1px;
     background-color: #24411A;
     -webkit-text-fill-color: white;
+    margin-left: 600px;
+    margin-right: 600px;
     
   
   }
@@ -139,8 +142,7 @@ a {
     background-color: #24411A;
     -webkit-text-fill-color: white;
     margin-top: 10px;
-    
-
+   
   }
 
 p {
@@ -158,33 +160,21 @@ p {
 
 footer {
     font-size: 14px;
-    text-align: center;
     box-sizing: auto;
     margin: 5px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     font-weight: bold;
-    background-position: center bottom;
     -webkit-text-fill-color: white;
-
-    
     
 }
     
   h4 {
     font-size: 18px;
-    text-align: center;
-    background-color:  #24411A ;
-    margin-left: auto;
-    margin-right: auto;
-    
     box-sizing: auto;
-    
-    padding: 10px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     font-weight: bold;
     -webkit-text-fill-color: white;
   
-
   }
