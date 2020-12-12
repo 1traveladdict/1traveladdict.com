@@ -146,22 +146,17 @@ a {
   }
 
 p {
-    
-    margin: 5px;
-    font-size: 14px;
+    font-size: 18px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     background-color: #24411A;
-    margin-top: 520px;
     -webkit-text-fill-color: white;
-    
-}
+   
+  }
 
 
 footer {
-    font-size: 14px;
-    box-sizing: auto;
-    margin: 5px;
+    font-size: 18px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     font-weight: bold;
@@ -171,7 +166,6 @@ footer {
     
   h4 {
     font-size: 18px;
-    box-sizing: auto;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     font-weight: bold;
