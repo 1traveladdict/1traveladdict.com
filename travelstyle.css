@@ -12,7 +12,6 @@ body {
     position: relative;
 }
 header {
-    
     width: 450px;
     height: 50px;
     text-align: center;
@@ -98,7 +97,7 @@ a {
     -webkit-text-stroke-width: 1px;
     background-color: #24411A;
     -webkit-text-fill-color: white;
-        
+       
   }
 
   .element {
@@ -126,9 +125,7 @@ a {
     -webkit-text-fill-color: white;
     margin-top: 10px;
     
-    
-    
-  }
+    }
 
 p {
     
@@ -136,10 +133,8 @@ p {
     font-size: 14px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
-    
     -webkit-text-fill-color: white;
-    margin-bottom: 20ppx;
-    
+        
 }
 section {
     font-size: 12px;
@@ -156,7 +151,8 @@ section {
     margin-top: 20px;
     
 }
-body {font-family: Georgia, 'Times New Roman', Times, serif;}
+body {font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 
 form {
@@ -166,7 +162,6 @@ form {
   height: auto;
   box-sizing: 80%;
   font-size: 25px;
-
     }
 
 
@@ -266,9 +261,7 @@ input[type=submit]:hover {
 }
 footer {
     font-size: 20px;
-    text-align: center;
     box-sizing: auto;
-    margin: 40px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     font-weight: bold;
@@ -282,11 +275,9 @@ footer {
     margin-left: auto;
     margin-right: auto;
     box-sizing: auto;
-    margin: 20px;
-    padding: 20px;
     -webkit-text-stroke-color:black;
     -webkit-text-stroke-width: 1px;
     font-weight: bold;
-    -webkit-text-fill-color: white;
+    -webkit-text-fill-color:white;
   
   }
