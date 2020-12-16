@@ -46,6 +46,7 @@ h3 {
   font-size: 30px;
   margin: 10px;
   text-align: center;
+  padding-top: 20px;
   
 }
 
@@ -63,7 +64,6 @@ div {
     background-color: #24411A;
     -webkit-text-fill-color: white;
     margin-top: 10px;
-    color: black;
    
   
 }
