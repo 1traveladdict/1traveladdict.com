@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0px;
+    display: border-box;
+    display: inline;
+    
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("file:///C:/Users/moiha/OneDrive/Desktop/website%20helen%20project/camels.jpg");
+    background-size: cover;
+}
+header {
+    padding-top: 10px;
+    color: white;
+    width: 450px;
+    height: 50px;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  display: block;
+  margin: 5px 5px;
+}
+h1 {
+    font-size: 42px;
+    color: white;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    -webkit-text-fill-color: white;
+    width: 400px;
+    height: 100px;
+    margin-left: 350px;
+    
+}
+
+h3 {
+  font-size: 30px;
+  margin: 10px;
+  text-align: center;
+  
+}
+
+
+
+
+div {
+    text-align: center;
+    display: flex;
+    display: border-box;
+    justify-content: space-evenly;
+    font-size: 20px;
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+    background-color: #24411A;
+    -webkit-text-fill-color: white;
+    margin-top: 10px;
+    color: black;
+   
+  
+}
+a {
+    font-size: 20px;
+    color: black; 
+    background-color: #24411A;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    
+  }
+
+p {
+
+    margin: 5px;
+    font-size: 14px;
+   
+    
+}
+
+footer {
+  font-size: 18px;
+  color: black;
+}
+    
+ 
