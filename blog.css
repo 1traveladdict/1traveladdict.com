@@ -46,10 +46,13 @@ h3 {
   font-size: 30px;
   margin: 10px;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 10px;
   
 }
-
+h4{
+  text-align: left;
+  
+}
 
 
 
@@ -64,6 +67,8 @@ div {
     background-color: #24411A;
     -webkit-text-fill-color: white;
     margin-top: 10px;
+    margin-bottom: 10px;
+  
    
   
 }
@@ -75,12 +80,17 @@ a {
     justify-content: space-evenly;
     margin: 10px;
     
+    padding: 10px;
+    
+    
+    
   }
 
 p {
 
     margin: 5px;
     font-size: 14px;
+    text-align: left;
    
     
 }
@@ -88,6 +98,7 @@ p {
 footer {
   font-size: 18px;
   color: black;
+
 }
     
  
